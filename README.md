@@ -219,4 +219,4 @@ POLL_INTERVAL_MINUTES=15
 
 ## License
 
-MIT (add a LICENSE file if you publish publicly)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
