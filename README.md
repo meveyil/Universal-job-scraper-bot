@@ -147,13 +147,6 @@ Place a JPEG/PNG file (e.g. `banner.jpg`) in the project root, or update `BANNER
 python main.py
 ```
 
-### Optional test scripts
-
-```bash
-python test_db_fill.py   # seed recent jobs for PM UX testing
-python test_send.py      # send one test job to the group
-```
-
 ---
 
 ## Environment Variables
