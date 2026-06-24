@@ -103,8 +103,8 @@ SCRAPER_SOURCE=mysite
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/job-scraper-bot.git
-cd job-scraper-bot
+git clone https://github.com/meveyil/Universal-job-scraper-bot.git
+cd Universal-job-scraper-bot
 ```
 
 ### 2. Create a virtual environment
