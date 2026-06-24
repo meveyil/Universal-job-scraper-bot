@@ -198,8 +198,6 @@ POLL_INTERVAL_MINUTES=15
 │   ├── mock.py
 │   ├── html_scraper.py
 │   └── registry.py
-├── test_send.py         # Manual group send test
-├── test_db_fill.py      # Manual DB seed for UI testing
 ├── requirements.txt
 └── .env.example
 ```
